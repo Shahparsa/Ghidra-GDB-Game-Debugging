@@ -14,4 +14,4 @@ The original game frequently crashed with a `SIGSEGV` (Segmentation fault) when 
 **Repository Structure:**
 - `game_patched`: The fixed Linux executable.
 - `Patch_Proof_Demo.mkv`: A short demo video showing the fixed gameplay without crashes.
-- `Reverse_Engineering_Report.pdf`: Full step-by-step technical analysis and patching process (in Persian).
+- `Technical_Report.pdf`: Full step-by-step technical analysis and patching process (in Persian).
